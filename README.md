@@ -1,2 +1,0 @@
-# DilioC
-Le core
